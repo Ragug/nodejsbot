@@ -3,7 +3,7 @@ var bb = require('bot-brother');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
 var bot = bb({
-  key: 'YOUR-API-KEY',
+  key: '1937484487:AAG_zrr_v0My3m_27ABHDbKpgZbPZG0Xm40',
   sessionManager: bb.sessionManager.memory(),
   polling: { interval: 0, timeout: 1 }
 });
